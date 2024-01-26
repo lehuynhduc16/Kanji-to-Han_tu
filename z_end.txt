@@ -1,0 +1,91 @@
+義務,ぎむ  NGHĨA VỤ
+判断,はんだん  PHÁN ĐOẠN
+目標,もくひょう  MỤC TIÊU
+報酬,ほうしゅう  BÁO THÙ
+要素,ようそ  YÊU TỐ
+効果,こうか  HIỆU QUẢ
+刺激,しげき  THÍCH KÍCH
+精神的,せいしんてき  TINH THẦN ĐÍCH
+得る,うる  ĐẮC
+弱まる,よわまる  NHƯỢC
+求める,もとめる  CẦU
+放送,ほうそう  PHÓNG TỐNG
+鉄道,てつどう  THIẾT ĐẠO
+文句,もんく  VĂN CÚ
+騒音,そうおん  TAO ÂM
+自身,じしん  TỰ THÂN
+車内,しゃない  XA NỘI
+公共,こうきょう  CÔNG CỘNG
+流れる,ながれる  LƯU
+高速道路,こうそくどうろ  CAO TỐC ĐẠO LỘ
+運転手,うんてんしゅ  VẬN CHUYỂN THỦ
+目的地,もくてきち  MỤC ĐÍCH ĐỊA
+途中,とちゅう  ĐỒ TRUNG
+映画,えいが  ÁNH HỌA
+現在,げんざい  HIỆN TẠI
+距離,きょり  CỰ LI
+休憩所,きゅうけいしょ  HƯU KHẾ SỞ
+長時間,ちょうじかん  TRƯỜNG THỜI GIAN
+一晩中,いちばんちゅう  NHẤT VÃN TRUNG
+衝突,しょうとつ  XUNG ĐỘT
+不注意,ふちゅうい  BẤT CHÚ Ý
+勇気,ゆうき  DŨNG KHÍ
+単調,たんちょう  ĐƠN ĐIỀU
+進める,すすめる  TIẾN
+程度,ていど  TRÌNH ĐỘ
+怒る,おこる  NỘ
+企業,きぎょう  XÍ NGHIỆP
+勤める,つとめる  CẦN
+対象,たいしょう  ĐỐI TƯỢNG
+調査,ちょうさ  ĐIỀU TRA
+秒,びょう  MIỂU
+美容院,びよういん  MĨ DUNG VIỆN
+理髪店,りはつてん  LÍ PHÁT ĐIẾM
+空席,くうせき  KHÔNG TỊCH
+順番待ち,じゅんばんまち  THUẬN PHIÊN ĐÃI
+有効,ゆうこう  HỮU HIỆU
+彼ら,かれら  BỈ
+直後に,ちょくごに  TRỰC HẬU
+いつぞや,いつぞや  
+一般的に,いっぱんてきに  NHẤT BÀN ĐÍCH
+一回きり,いっかいきり  NHẤT HỒI
+恩,おん  ÂN
+精一杯,せいいっぱい  TINH NHẤT BÔI
+義理社会,ぎりしゃかい  NGHĨA LÍ XÃ HỘI
+義理人情,ぎりにんじょう  NGHĨA LÍ NHÂN TÌNH
+贈り物,おくりもの  TẶNG VẬT
+物々交換,ぶつぶつこうかん  VẬT GIAO HOÁN
+やり取り,やりとり  THỦ
+肝心,かんじん  CAN TÂM
+再会する,さいかいする  TÁI HỘI
+期待する,きたいする  KÌ ĐÃI
+済ます,すます  TẾ
+恐縮する,きょうしゅくする  KHỦNG SÚC
+尽くす,つくす  TẬN
+言い忘れる,いいわすれる  NGÔN VONG
+油,あぶら  DU
+知能,ちのう  TRI NĂNG
+感情,かんじょう  CẢM TÌNH
+国民,こくみん  QUỐC DÂN
+民族,みんぞく  DÂN TỘC
+タンパク源,タンパクげん  NGUYÊN
+生物資源,せいぶつしげん  SINH VẬT TƯ NGUYÊN
+生き物,いきもの  SINH VẬT
+鯨,くじら  KÌNH
+捕鯨,ほげい  BỘ KÌNH
+哺乳類,ほにゅうるい  NHŨ LOẠI
+魚類,ぎょるい  NGƯ LOẠI
+種,しゅ  CHỦNG
+IWC国際捕鯨委員会, こくさいほげいいいんかい  QUỐC TẾ BỘ KÌNH ỦY VIÊN HỘI
+決定,けってい  QUYẾT ĐỊNH
+頭,あたま  ĐẦU
+貴重(な),きちょう  QUÝ TRỌNG
+神聖(な),しんせい  THẦN THÁNH
+基本的(な),きほんてき  CƠ BẢN ĐÍCH
+科学的(な),かがくてき  KHOA HỌC ĐÍCH
+捕る,とる  BỘ
+絡む,からむ  LẠC
+親しむ,したしむ  THÂN
+非難する,ひなんする  PHI NAN
+主張する,しゅちょうする  CHỦ TRƯƠNG
+発達する,はったつする  PHÁT ĐẠT
